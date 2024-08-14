@@ -23,8 +23,4 @@ Disabling raw input in CS2 means that functions like `pyautogui.moveTo()` and si
 
 ### Workarounds
 
-1. <strong>External Hardware Solutions</strong><br>
-   Using external hardware devices such as programmable gaming mice or custom-built hardware interfaces that can simulate raw input might bypass the software limitations. However, this approach is complex and may still violate game terms of service.
-
-2. <strong>Other Games and Applications</strong><br>
-   While CS2 poses a challenge, the aim assist tool may still be functional and beneficial in other games or applications that do not have such raw input limitations. Testing and validating the tool in a variety of environments can provide more insights into its versatility and effectiveness.
+While CS2 poses a challenge, the aim assist tool may still be functional and beneficial in other games or applications that do not have such raw input limitations. Testing and validating the tool in a variety of environments can provide more insights into its versatility and effectiveness.
